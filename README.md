@@ -60,8 +60,7 @@ To get started, follow these steps:
 
 This repository includes the following key notebooks:
 
-1. **01_Linear_Algebra.ipynb**: Introduction to vectors, matrices, and basic operations , Detailed exploration of determinants and matrix inverses , Understanding eigenvalues, eigenvectors, and their applications,
-2. How linear transformations work and their significance in different fields.
+1. **01_Linear_Algebra.ipynb**: Introduction to vectors, matrices, and basic operations , Detailed exploration of determinants and matrix inverses , Understanding eigenvalues, eigenvectors, and their applications, How linear transformations work and their significance in different fields.
 
 Each notebook builds upon the previous one, ensuring a comprehensive and cohesive learning experience.
 
